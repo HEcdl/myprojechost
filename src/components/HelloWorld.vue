@@ -20,7 +20,7 @@
       <img class="imgproduch" title="Puente de Corinto Bajo Luvia" src="../img/Corinto.jpg">
 
     </div>
-    <div class="info">
+    <!-- <div class="info">
       <h2>Puente Paso Caballo en Corinto Nicaragua</h2>
       <p>Puente de paso caballos en la entrada a la ciudad Portuaria, en un tiempo ocupo el primer lugar como el puente
         más largo de Nicaragua a finales de los años 50 y comienzo de los años 60 (Hablando del puente viejo hoy puente
@@ -40,7 +40,7 @@
         crecer y nacen nuevas calle y nuevos poblados, ojalá esté hermoso puente se ilumine tanto arriba como abajo y se
         podrá notar toda una belleza en fotografía nocturnas. !Que viva a gusto Corinto dichoso!.
         Fotografía autor a su dueño.</p>
-    </div>
+    </div> -->
   </div>
 
 </template>

@@ -14,7 +14,7 @@ import mostrar from './components/mostrar.vue';
 
 
   <mostrar msg='mostrar' />
-  <sumapts msg="sumar" />
+ <!--  <sumapts msg="sumar" /> -->
   <!-- <HelloWorld msg="Hello" /> -->
 
 </template>

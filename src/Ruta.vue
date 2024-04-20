@@ -6,11 +6,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
 
-    <nav class="navbar">
+    <!-- <nav class="navbar">
         <ul><a href="../index.html">Inicio</a></ul>
         <ul><a href="../Blog.html">Blog</a></ul>
        
-    </nav>
+    </nav> -->
     <h1>Corinto</h1>
     <!--  <Products msg="Productos" /> -->
     <!-- <mostrar msg='mostrar' /> -->

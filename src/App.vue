@@ -2,6 +2,7 @@
 //import HelloWorld from './components/HelloWorld.vue'
 import sumapts from './components/sumapts.vue';
 import mostrar from './components/mostrar.vue';
+/* import Ruta from './Ruta.vue'; */
 
 </script>
 
@@ -9,12 +10,13 @@ import mostrar from './components/mostrar.vue';
 
   <nav class="navbar">
     <ul><a href="../index.html">Inicio</a></ul>
-    <ul><a href="../Blog.html">Blog</a></ul>
+    <!-- <ul><a href="../Blog.html">Blog</a></ul> -->
   </nav>
 
 
   <mostrar msg='mostrar' />
   <sumapts msg="sumar" />
+  <!-- <Ruta msg="ruta"/> -->
   <!-- <HelloWorld msg="Hello" /> -->
 
 </template>

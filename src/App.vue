@@ -35,6 +35,17 @@ import mostrar from './components/mostrar.vue';
   filter: drop-shadow(0 0 2em #42b883aa);
 }
 ul{
+  background-color: rgb(86, 44, 251);
   color: aqua;
+  display: flex;
+  width: 25%;
+  align-items: center;
+}
+a{
+  color:antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
 }
 </style>
